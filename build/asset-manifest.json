@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.90231e12.css",
+    "main.js": "/static/js/main.e7104be7.js",
+    "static/media/Simon-game.gif": "/static/media/Simon-game.34a9b7bbfe0c67e067dc.gif",
+    "static/media/HelloImg.jpg": "/static/media/HelloImg.ee14a4771b9aeb776e6c.jpg",
+    "static/media/DrumKit.png": "/static/media/DrumKit.2b335705674f63e326ae.png",
+    "static/media/BankingWebsite.png": "/static/media/BankingWebsite.38da9e673b9e89db91e2.png",
+    "static/media/proj1.jpg": "/static/media/proj1.46ac2cf9350d487d7901.jpg",
+    "index.html": "/index.html",
+    "main.90231e12.css.map": "/static/css/main.90231e12.css.map",
+    "main.e7104be7.js.map": "/static/js/main.e7104be7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90231e12.css",
+    "static/js/main.e7104be7.js"
+  ]
+}
